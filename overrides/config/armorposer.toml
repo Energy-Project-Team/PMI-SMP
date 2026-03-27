@@ -1,0 +1,21 @@
+[general]
+enableConfigGui = true
+enableNameTags = true
+allowScrolling = true
+nameBasedFeatures = false
+[restrict]
+restrictInvisibleToOP = false
+restrictBasePlateToOP = false
+restrictGravityToOP = false
+restrictShowArmsToOP = false
+restrictSmallToOP = false
+restrictNameVisibleToOP = false
+restrictRotationToOP = false
+restrictAlignToOP = false
+restrictPositionToOp = false
+restrictResizeToOP = false
+resizeWhitelist = []
+restrictWhitelist = []
+[client]
+directNametagOnly = false
+nametagRenderDistance = 0
